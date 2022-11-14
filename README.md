@@ -48,6 +48,11 @@ Now you ready to enable and start the `truecallerjs` daemon service:
 sv-enable truecallerjs
 sv up truecallerjs
 ```
+
+```
+TYPE : truecallerjs -s (victim number)  [Then Click Enter Bottom]
+```
+then show you your victim sim details! bla bla bla😄
 If you need to stop, run `sv down truecallerjs`
 > **Note** : If you get any error just close the termux app and reopen it.Then start truecallerjs services.
 > **Note** : If it is not working export  the exvironment variable DEFAULT_DIALER_APP="Yor Dialer App Package Name" .
